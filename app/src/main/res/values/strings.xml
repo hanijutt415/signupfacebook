@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">signupfacebook</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="enter_name">Enter name</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="enter_number">Enter number</string>
+    <string name="email">EMAIL</string>
+    <string name="enter_email">Enter email</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_password">Enter password</string>
+    <string name="ssss">SIGN UP</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="mobile_email_or_phone_number">Mobile email or Phone number</string>
+    <string name="passawrd">Passawrd</string>
+    <string name="login">login</string>
+    <string name="fogotten_passaward">Fogotten Passaward?</string>
+    <string name="or">or</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
+</resources>
